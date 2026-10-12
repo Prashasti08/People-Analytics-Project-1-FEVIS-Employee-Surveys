@@ -47,7 +47,8 @@ Identifying workplace predictors of employee engagement using real survey data, 
 ## Data Visualizations and Dashboard
 
 - **Python:** Horizontal bar charts displaying **Pearson correlation coefficients** and **model MAE comparisons**.
-- **Tableau:** Interactive horizontal bar charts showing **mean engagement by development and leadership ratings**, with cross-filtering.
+- **Tableau:** Interactive horizontal bar charts showing **mean engagement by development and leadership ratings**, with cross-filtering. 
+- [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/prashasti.tripathi/viz/EmployeeEngagement2024FederalEmployeeSurvey/Dashboard1)
 - **Planned additions:** Correlation heatmap, Tableau regression coefficient plot, and model-comparison bar chart.
 
 ## Limitations
