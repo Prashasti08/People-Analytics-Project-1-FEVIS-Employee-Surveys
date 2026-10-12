@@ -1,4 +1,4 @@
-![Employee Engagement Predictors](banner.png) 
+
 
 # People Analytics Project: Employee Engagement Predictors
 
