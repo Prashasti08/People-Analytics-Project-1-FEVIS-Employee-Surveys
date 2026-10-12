@@ -34,12 +34,13 @@ Identifying workplace predictors of employee engagement using real survey data, 
 ## Data Source
 
 - [2024 OPM Federal Employee Viewpoint Survey — Official Data Page (select 2024)](https://www.opm.gov/fevs/public-data-file/)
-- **Q86–Q90:** OPM’s Employee Experience Index questions covering employees’ inspiration from their jobs, accomplishment from their work, attachment to their agency, identification with its mission, and belief that contributing to the common good is important.
+- **Q86–Q90:** OPM’s Employee Experience Index questions covering employees’ inspiration from their jobs, accomplishment from their work, attachment to their agency, identification with its mission, and belief that contributing to the common good is important
 
 ## Code
 
 - **Python / Jupyter Notebook:** Data cleaning, descriptive statistics, correlations, multiple linear regression, predictive modeling, and charts.
 - **SQLite:** Executed **SQL aggregation queries** using `COUNT`, `AVG`, and `GROUP BY` to extract employee counts and average engagement by development and leadership ratings.
+- [View Python Analysis and SQL Queries](https://github.com/Prashasti08/People-Analytics-Project-Employee-Engagement-Predictors/blob/main/Employee_Engagement_Analysis.ipynb.ipynb)
 
 ## Data Visualizations and Dashboard
 
