@@ -1,6 +1,6 @@
 ![Employee Engagement Predictors](banner.png)
 
-# People Analytics Project: Employee Engagement Predictors
+# People Analytics Project: Predictors of Employee Engagement 
 
 Identifying workplace predictors of employee engagement using real survey data, SQL, Python, predictive modeling, and Tableau.
 
